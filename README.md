@@ -1,4 +1,4 @@
-# Dio-desafio-GFT-bootcamp
+# Dio desafio DIO GFT bootcamp
 Repositório criado para realização do Desafio do BootCamp .NET da Empresa GFT.
 
 ## Links Úteis
